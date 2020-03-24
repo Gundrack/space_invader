@@ -6,7 +6,7 @@ projet realisé par *Allan Lazes*.
 ## **sommaire:**
 
 - Mode d'emploit
-- 3 grandes difficultés
+- 3 grandes difficulté
 - liste des notions apprises / decouverte / peaufinées
 - Conclusion
 
@@ -52,7 +52,14 @@ Mais quand j'en suis venu à générer plus d'ennemies, le missile et le déplac
 
 Pour générer le missile j'utilise un compteur qui s'incrémente continuellement et qui est réinitialisé une fois la limite atteinte. Au début du développement le compteur allait jusqu'à `65,000`. Maintenant il est réduit à `30` pour avoir une interface fluide.
 
-### trouver un autre probleme
+### **Les conditions:**
+
+simple a utilisé quand on en utilise très peu. Mais dans le cas de mon code j'en utilise beaucoup et dans certains cas les uns imbriqués dans les autres.
+
+La plus dure a été de limiter les utilisations des conditions, car ça rend le code moins lisible.
+
+Une solution simple est d'utilisé des fonctions, mais c'est pas simple a mettre en oeuvre.
+Dans mon cas je n'ai pas le temps ni les capacités pour optimiser cette partie, ce qui fait que je me retrouve avec beaucoup de condition imbriquée. 
 
 ***
 
