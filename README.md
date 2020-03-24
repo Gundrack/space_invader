@@ -6,7 +6,7 @@ projet realisé par *Allan Lazes*.
 ## **sommaire:**
 
 - Mode d'emploit
-- 3 grandes difficulté avec leur resolution
+- 3 grandes difficultés
 - liste des notions apprises / decouverte / peaufinées
 - Conclusion
 
